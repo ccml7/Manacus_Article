@@ -8,7 +8,7 @@ This repository contains:
 - Raw data
 - Analysis scripts
 
-##Data Folder
+## Data Folder
 
 **Table S1:** Information about ornithological collections visited to obtain morphological data of M. manacus in Colombia. See supplementary file for detailed measures of each specimen.
 
